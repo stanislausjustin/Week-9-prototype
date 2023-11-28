@@ -1,0 +1,70 @@
+video {
+   margin-left: 35%;
+}
+body {
+    background-color: #BDC5B7;
+}
+
+.button {
+    display: inline-block;
+    text-decoration: none;
+    color: #372b12;
+    border: 1px solid #554b26;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+    margin-left: 37%;
+    margin-bottom: 8%;
+}
+
+.button:hover{
+    border: 1px solid #05250a;
+    background: #a3a189;
+    transition: 0.5s;
+}
+
+.button1 {
+    display: inline-block;
+    text-decoration: none;
+    color: #372b12;
+    border: 1px solid #554b26;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+    margin-left: 60%;
+    margin-bottom: 8%;
+}
+
+.button1:hover{
+    border: 1px solid #05250a;
+    background: #a3a189;
+    transition: 0.5s;
+}
+
+.cook {
+    margin-top: -15%;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.columnleft {
+    flex: 100%;
+    margin-left: 34%;
+    position: absolute;
+}
+
+.columnright {
+    flex: 100%;
+    margin-right: 10%;
+}
+.boob {
+    margin-left: 39%;
+}
